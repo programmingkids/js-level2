@@ -10,4 +10,4 @@ function Triangle( base, height ) {
 // コンストラクタ関数を利用してオブジェクトを作成
 var t1 = new Triangle(4,5);
 // 「getArea」メソッドを呼び出す
-console.log(t1.getArea());
+

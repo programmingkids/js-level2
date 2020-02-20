@@ -7,6 +7,3 @@ var student = {
 };
 
 // 連想配列からキーと値を表示する
-for( var i in student ) {
-    console.log( i + " ==> " + student[i]);
-}

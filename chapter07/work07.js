@@ -3,4 +3,3 @@ function sayHello( name ) {
 }
 
 // 関数「sayHello」を呼び出す
-sayHello("Luffy");
