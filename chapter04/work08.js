@@ -3,6 +3,3 @@ var area = {
     "底辺": 6, 
 };
 
-for ( var key in area ) {
-    console.log(key + " => " + area[key]);
-}

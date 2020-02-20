@@ -4,4 +4,3 @@ var user = {
     age  : 17,
 };
 
-console.log(user.name);

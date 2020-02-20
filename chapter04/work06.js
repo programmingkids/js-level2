@@ -4,6 +4,3 @@ var person = {
     hobby:"tennis",
 };
 
-for ( var key in person ) {
-    console.log(key + " ==> " + person[key]);
-}
