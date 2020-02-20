@@ -9,5 +9,3 @@ var area = {
 };
 
 // オブジェクト変数「area」の「getArea」メソッドを実行
-var result = area["getArea"]();
-console.log( result );

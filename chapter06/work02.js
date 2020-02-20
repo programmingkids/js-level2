@@ -4,5 +4,3 @@ var person = {
     hobby : "Tennis",
 };
 
-console.log(person.name);
-console.log(person["name"]);

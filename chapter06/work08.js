@@ -13,5 +13,4 @@ function Calc(num1, num2) {
 // コンストラクタ関数を利用してオブジェクトを作成
 var calc1 = new Calc(3,5);
 // メソッドを呼び出してください
-console.log(calc1.add());
-console.log(calc1.multiply());
+

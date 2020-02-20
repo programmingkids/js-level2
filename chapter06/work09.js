@@ -16,7 +16,4 @@ var s1 = new Student("Anna",[90,92,82]);
 var s2 = new Student("Elsa",[95,94,90]);
 
 // メソッドを呼び出してください
-console.log("=== " + s1.name + " ===");
-console.log(s1.getTotalScore());
-console.log("=== " + s2.name + " ===");
-console.log(s2.getTotalScore());
+
