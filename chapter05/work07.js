@@ -4,4 +4,3 @@ function sayHello( name ) {
 }
 
 // 関数を呼び出す処理を作成
-sayHello("Micky");
